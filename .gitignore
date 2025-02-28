@@ -1,0 +1,17 @@
+# Repo files
+docker-compose.yml
+*.sql
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+
+# Environment variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
